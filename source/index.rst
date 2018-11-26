@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to FusionDirectory User Manual's documentation!
-=======================================================
+Welcome to FusionDirectory 1.2.3 User Manual's
+==============================================
 
 .. image:: /_static/images/fd_logo.png
    :alt: FusionDirectory
